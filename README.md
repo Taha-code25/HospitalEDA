@@ -43,7 +43,6 @@ Through **Pandas-based analysis** and **Matplotlib/Seaborn visualizations**, we 
 ---
 
 ## 📊 Key Findings
-*(Replace placeholders with your actual results)*  
 - **Total Admissions:** `15757`
 - **Gender Distribution:** `Male 9990`, `Female 5767`
 - **Most Common Age Group:** `'60-79' years`
